@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[lay:home|Door43 (lay)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-lay|d43-lay repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-lay/archive/master.zip|d43-lay.zip]]
+
+**Recent Changes**
+{{changes>ns = lay}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/lay|Ethnologue data]]
+
